@@ -9,8 +9,8 @@ P@CTH Pentest Scanner — POC-Only, Ethical Use
 - Crawler (include/exclude regex + rate limit)
 - Header/CSP kontrolleri, redirect zinciri
 - XSS (Reflected + DOM) — token yansıması POC (+ sink ipucu)
-- SSTI POC (strict/çift doğrulama) + opsiyonel sınırlı RCE kanıtı (LAB)
-- SQLi POC: hata/boolean (+opsiyonel time-based, LAB)
+- SSTI POC (strict/çift doğrulama) + opsiyonel sınırlı RCE kanıtı (lcoal)
+- SQLi POC: hata/boolean (+opsiyonel time-based, lcoal)
 - Open Redirect POC
 - JNLP analizörü (all-permissions / jar ipuçları)
 - Bilinmeyen zafiyet avı (anomali/5xx/delay/stack trace)
