@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs><style>.line{fill:none;stroke:currentColor;stroke-width:24;stroke-linecap:round;stroke-linejoin:round}.fill{fill:currentColor}</style></defs>
+  <path class="line" d="M256 40 L448 120 V280c0 96-80 168-192 200C144 448 64 376 64 280V120z"/>
+  <circle class="line" cx="256" cy="260" r="104"/><circle class="line" cx="256" cy="260" r="56"/>
+  <path class="line" d="M256 164V128M256 392v-36M160 260h-36M388 260h-36"/>
+  <path class="line" d="M256 260 L352 196"/>
+  <path class="fill" d="M276 112l26-54-62 62h26l-26 54 62-62z"/>
+</svg>
